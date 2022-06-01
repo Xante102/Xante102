@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xante !</h1>
 <h3 align="center">A passionate frontend developer from Jamaica.</h3>
 
-<img src="https://cdn.dribbble.com/users/519645/screenshots/10478053/media/1d978bf5172bbb0542dc49ddd4019e7e.gif" height="400" width="1000">
+<img src="https://cdn.dribbble.com/users/519645/screenshots/10478053/media/1d978bf5172bbb0542dc49ddd4019e7e.gif" style="width:30rem">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xante102&label=Profile%20views&color=0e75b6&style=flat" alt="xante102" /> </p>
 
